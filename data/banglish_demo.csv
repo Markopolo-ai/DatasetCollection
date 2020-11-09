@@ -1,0 +1,24 @@
+comments,sentiment extraction,sentiment,is_actionable,Translation,ner,names for ner ,hate speech,Toxic
+ecb te diben?,,0,1,,,,0,0
+Rumana Ruhi chol?,,0,0,,,,0,0
+Rifa Tashfia Tayeeba Mobashera eta dekho,,0,0,,,,0,0
+Saznin Shormi niye jaba?,,0,0,,,,0,0
+Dham kato,,0,1,,,,0,0
+Location ta kothy,,0,1,,,,0,0
+Ei disher namki,,0,1,,,,0,0
+Fatullah narayonganj delivery possible?,,0,1,,location,"Fatullah,narayonganj",0,0
+moghbazar dewa jabe?,,0,1,,location,moghbazar,0,0
+Price kto,,0,1,,,,0,0
+Vai jatrabari kora jbe oder,,0,1,,location,jatrabari,0,0
+Eta kon jaygay,,0,1,,,,0,0
+Mahathir Muhammad Fahim apnar video famous,video famous,1,0,,,,0,0
+Vai amarea aktu deben,aktu deben,1,0,,,,0,0
+khilkhet ey home delivery,,0,1,,location,khilkhet,0,0
+Delivery in dhanmondi possible?,,0,1,,location,dhanmondi,0,0
+Location koi apnader?,,0,1,,,,0,0
+food panda baad??,,0,1,,brand,"food,panda",0,0
+Uttara delivery deya jabe?,,0,1,,location,Uttara,0,0
+Shahriar Sakib na khaowaile ar biri te book dimu na kintu,na khaowaile,1,0,,,,0,0
+#burgerology surprise er jonno wait korchi onkkkkkkkk bar mntn korechi amk ki dekhen na?, wait korchi onkkkkkkkk bar mntn korechi,2,1,,brand,burgerology,0,0
+#Burgerology sobai k surprise daw ami atoi unlucky ja ato mntn dawr porw aktu rplydaw na ,unlucky,2,1,,brand,burgerology,0,0
+Nahin Al Tahsin morar pinik uthse?,,0,0,,,,0,1
